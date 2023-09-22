@@ -1,0 +1,212 @@
+body {
+  background-color: #004aad;
+}
+
+h1 {
+  text-align: center;
+  color: #ffff;
+}
+
+input {
+  text-align: center;
+  color: #ffffff;
+}
+
+.heading {
+  color: #004aad;
+  font-size: 35px;
+  /* font-family: 'Kalam', cursive; */
+  margin: 0;
+}
+
+.bigHead {
+  background-color: rgb(255, 255, 255);
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 100px;
+  width: 30vw;
+  /* height: 70vh; */
+  border-radius: 10px;
+  size: 100px;
+}
+
+.loginTab {
+  background-color: #ffffff;
+  border-radius: 20px;
+  height: auto;
+}
+
+.login-form {
+  background-color: white;
+  padding: 2rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.homeLogin{
+  margin-bottom:5px;
+  margin-top: 20px;
+  border-radius: 10px;
+  font-size: 15px;
+  background-color: #004aad;
+  padding: 15px 50px;
+  color: #ffff;
+  border: none;
+}
+
+.homeLogin:hover{
+  background-color: #ffff;
+  border-radius: 20px;
+  color: #004aad;
+  transition: all 0.5s ease;
+  border: 1px solid #004aad;
+}
+
+.teacherStu{
+  color: #ffff;
+  background-color: #004aad;
+  border: none;
+  border-radius: 5px;
+}
+
+.teacherStu:hover{
+  color: #004aad;
+  background-color: #ffff;
+  border-radius: 20px;
+  transition: all 0.5s ease;
+}
+
+
+.img1 {
+  padding-top: 0px;
+  height: 120px;
+  width: 120px;
+}
+
+.user {
+  border-radius: 20px;
+  background-color: #004aad;
+  height: 40px;
+  border-style: none;
+  color: white;
+  margin-top: 20px;
+}
+
+.Password {
+  border-radius: 20px;
+  background-color: #004aad;
+  height: 40px;
+  border-style: none;
+  color: white;
+  margin-top: 20px;
+}
+
+.left_bigbox {
+  background-color: #f8f9fd;
+  border-radius: 20px;
+}
+.right_upbox {
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  position: relative;
+  top: 30px;
+  right: 245px;
+  float: right;
+}
+.right_downbox {
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  float: right;
+  position: relative;
+  top: 270px;
+  right: 40px;
+}
+
+/* for admin page */
+.admin_btn {
+  border-radius: 20px;
+  background-color: #004aad;
+  height: 90px;
+  width: 200px;
+  color: white;
+  border: 0px;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.admin_div {
+  margin-left: 250px;
+  margin-right: 250px;
+}
+
+/* .selection{
+  background-color: #f8f9fd;
+  border-radius: 20px;
+  width: 230px;
+  height: 40px;
+  margin-left: 50px;
+  text-align: right;
+} */
+
+label {
+  display: flex;
+  align-items: center;
+}
+input[type="checkbox"] {
+  flex: none;
+}
+
+.Check {
+  margin: 10px;
+  height: 20px;
+  width: 70px;
+}
+
+.round {
+  border-radius: 30%;
+}
+
+.box_inside_left_box {
+  background-color: #004aad;
+  border-radius: 20px;
+  height: 380px;
+  width: 320px;
+  margin-left: 190px;
+  margin-bottom: 50px;
+}
+
+/* .scroll
+{
+    max-height: 400px;
+    overflow-y: scroll;
+} */
+
+.rows {
+  background-color: #f8f9fd;
+  border-radius: 20px;
+  width: 230px;
+  height: 30px;
+  margin-left: 45px;
+  color: black;
+  border: none;
+}
+.addsub {
+  width: 200px;
+  height: 40px;
+  border-radius: 15px;
+  margin-left: 230px;
+  border-color: #004aad;
+  color: black;
+  margin-top: 5px;
+}
+
+.design{
+  width: 150px;
+  height: 30px;
+  border-radius: 15px;
+  margin-left: 90px;
+  border:none;
+  color: black;
+  margin-top: 5px;
+
+}
